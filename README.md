@@ -4,10 +4,10 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- What was your motivation? create a schedule that changes the date and the color when it passes a certain hour 
+- Why did you build this project? i build it to create a daily work-day schedule that is up to date 
+- What problem does it solve? i solve the date/time and month and how the colors changes when the hours change
+- What did you learn? what i learn is to be consist and repeat it but this one was fun 
 
 ## Table of Contents (Optional)
 
@@ -24,13 +24,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 here is the link: https://jusukarneh.github.io/work-day-schedule/
 
 <img src="./images/workday .png"/>
